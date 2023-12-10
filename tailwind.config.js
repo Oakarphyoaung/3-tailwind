@@ -7,6 +7,9 @@ module.exports = {
     "news.html",
     "buttoms.html",
     "table.html",
+    "grid.html",
+    "ele.html",
+    "reading.html",
   ],
   theme: {
     extend: {},
